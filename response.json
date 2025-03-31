@@ -1,0 +1,63 @@
+[
+    {
+      "title": "Weather Disrupts the Big Match!",
+      "message": "The game has been postponed due to weather conditions. Fans are disappointed, but safety comes first. Stay tuned for the new date.",
+      "messageId": "msg_001",
+      "thumbnailUrl": "https://example.com/thumbnails/match_update.jpg",
+      "imageUrl": null,
+      "sportType": "Football",
+      "competition": "La Liga",
+      "messageType": "Match Postponement",
+      "teams": {
+        "homeTeam": {
+          "teamId": "FCB001",
+          "name": "FC Barcelona",
+          "followed": true
+        },
+        "awayTeam": {
+          "teamId": "RMA002",
+          "name": "Real Madrid",
+          "followed": false
+        }
+      }
+    },
+    {
+      "title": "LeBron's Injury Shakes the Lakers",
+      "message": "LeBron James suffered an ankle injury during the game. He is expected to miss 3 weeks of play. The Lakers are looking to recover and stay strong in the postseason race.",
+      "messageId": "msg_002",
+      "thumbnailUrl": "https://example.com/thumbnails/injury_report.jpg",
+      "imageUrl": "https://example.com/images/injury_report.jpg",
+      "sportType": "Basketball",
+      "competition": "NBA",
+      "messageType": "Injury Report",
+      "teams": {
+        "homeTeam": {
+          "teamId": "LAL003",
+          "name": "Los Angeles Lakers",
+          "followed": false
+        }
+      }
+    },
+    {
+      "title": "Montreal Crush NY",
+      "message": "Montreal Canadiens dominated the game against the New York Rangers, winning 7-2. It was a thrilling match with incredible performances from their top players. The victory helps them secure a stronger position in the playoffs.",
+      "messageId": "msg_003",
+      "thumbnailUrl": "https://example.com/thumbnails/final_score.jpg",
+      "imageUrl": "https://example.com/images/final_score.jpg",
+      "sportType": "Hockey",
+      "competition": "NHL",
+      "messageType": "Final Score",
+      "teams": {
+        "homeTeam": {
+          "teamId": "MTL006",
+          "name": "Montreal Canadiens",
+          "followed": true
+        },
+        "awayTeam": {
+          "teamId": "NYR007",
+          "name": "New York Rangers",
+          "followed": true
+        }
+      }
+    }
+  ]

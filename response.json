@@ -8,6 +8,7 @@
       "sportType": "Football",
       "competition": "La Liga",
       "messageType": "Match Postponement",
+      "timestamp": "2025-04-01T12:00:00Z",
       "teams": {
         "homeTeam": {
           "teamId": "FCB001",
@@ -30,6 +31,7 @@
       "sportType": "Basketball",
       "competition": "NBA",
       "messageType": "Injury Report",
+      "timestamp": "2025-04-01T12:00:00Z",
       "teams": {
         "homeTeam": {
           "teamId": "LAL003",
@@ -47,6 +49,7 @@
       "sportType": "Hockey",
       "competition": "NHL",
       "messageType": "Final Score",
+      "timestamp": "2025-04-01T12:00:00Z",
       "teams": {
         "homeTeam": {
           "teamId": "MTL006",

@@ -17,4 +17,4 @@ MVP requirements for this project are:
 
 ### Pseudo-design:
 
-<img width="216" alt="Screenshot 2025-04-01 at 08 36 04" src="https://github.com/user-attachments/assets/1359d96e-242e-43e7-8438-d2f658d27050" />
+![design](https://github.com/user-attachments/assets/6d3ed35c-1c10-4dc3-90ca-2bdb08698eb7)
